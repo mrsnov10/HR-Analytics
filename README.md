@@ -1,2 +1,2 @@
 # HR-Analytics
-Employee Attrition Details
+![image.png](images/HRTalent.png)
